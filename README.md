@@ -12,4 +12,5 @@ e-Tasks é um esboço de um sistema para gerenciamento de tarefas, projetado par
 * [React](https://react.dev/)
 * [Styled Components](https://styled-components.com/)
 
-  ### :desktop_computer: Previa do Projeto
+### :desktop_computer: Previa do Projeto
+![print da tela home](assets/e-tesks.png)
